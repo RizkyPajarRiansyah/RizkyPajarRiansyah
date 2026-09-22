@@ -3,7 +3,6 @@
 I'm Rizky Pajar Riansyah, an Information Systems student at Universitas Bina Sarana Informatika (BSI).
 Currently learning web development and backend development.
 
-### About Me
 - 🎓 Information Systems Student at Universitas Bina Sarana Informatika 
 - 💻 Currently learning CodeIgniter 
 - 🗄️ Currently learning MySQL and PostgreSQL 
