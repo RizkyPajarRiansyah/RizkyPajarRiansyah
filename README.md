@@ -4,7 +4,7 @@ I'm Rizky Pajar Riansyah, an Information Systems student at Universitas Bina Sar
 Currently learning web development and backend development.
 
 ### About Me
-🎓 Information Systems Student at Universitas Bina Sarana Informatika
+🎓 Information Systems Student at Universitas Bina Sarana Informatika\n
 💻 Currently learning CodeIgniter
 🗄️ Currently learning MySQL and PostgreSQL
 📚 Working on academic and personal projects
