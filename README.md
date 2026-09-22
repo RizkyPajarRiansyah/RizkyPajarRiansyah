@@ -23,5 +23,4 @@ Backend Development
 
 ### Projects
 I'm currently working on academic projects and small projects while learning.
-
 More projects coming soon.
